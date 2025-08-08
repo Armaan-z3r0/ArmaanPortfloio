@@ -1,0 +1,7 @@
+name = "portfolio-website"
+main = "workers.ts"
+compatibility_date = "2025-08-08"
+
+[site]
+bucket = "./dist"
+
